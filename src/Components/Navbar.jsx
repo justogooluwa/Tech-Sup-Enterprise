@@ -8,13 +8,13 @@ function Navbar() {
         <p>Tech Sup Enterprise</p>
       </div>
 
-      <div className="nav-links">
+      {/* <div className="nav-links">
         <ul>
           <li><NavLink to="/">Home</NavLink></li>
           <li><NavLink to="/about">About</NavLink></li>
           <li><NavLink to="/service">Services</NavLink></li>
         </ul>
-      </div>
+      </div> */}
     </div>
   );
 }
